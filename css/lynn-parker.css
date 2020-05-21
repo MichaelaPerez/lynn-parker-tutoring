@@ -1,0 +1,37 @@
+figure.caption {
+    color: #6c757d;
+    text-align: left;
+    font-style: italic;
+    font-size: smaller;
+    text-indent: 0;
+    padding: 0;
+}
+
+h2.subheading {
+    margin-top: 1.5rem !important;
+    color:#343a40;
+    text-align: left;
+    font-style: italic;
+    text-indent: 0;
+    padding: 0;
+    font-style: italic !important;
+    font-weight: lighter;
+}
+
+small.subheading {
+    color:#343a40;
+    text-align: left;
+    font-style: italic;
+    text-indent: 0;
+    padding: 0;
+    font-style: italic !important;
+    font-weight: lighter;
+}
+
+small.heading {
+    color:#6f42c1;
+    text-align: left;
+    text-indent: 0;
+    padding: 0;
+    font-size: larger;
+}
